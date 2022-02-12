@@ -13,7 +13,6 @@
 * Export your work to a file
 * A small set of editing tools
 * <b>Basic Tools to get your started</b>
-<ul>
 * Table generator
 * Random text generator
 * Web sizes chart
