@@ -3,22 +3,19 @@
 
 <img width="480" alt="logo" src="https://user-images.githubusercontent.com/17520035/153727305-d19523b0-3c54-48e2-8c53-dba4e17f0132.png">
 
-			<h2>Features</h2>
+## Features
 
-			<ul>
-				<li>See everything as you type</li>
-				<li>Work with multiple documents</li>
-				<li>Full C# Source code</li>
-				<li>Auto indent text</li>
-				<li>Insert HTML, CSS Tags</li>
-				<li>Export your work to a file</li>
-				<li>A small set of editing tools</li>
-				<li><b>Basic Tools to get your started</b></li>
-				<ul>
-					<li>Table generator</li>
-					<li>Random text generator</li>
-					<li>Web sizes chart</li>
-					<li>Colour picker</li>
-					<li>Font picker</li>
-				</ul>
-			</ul>
+* See everything as you type
+* Work with multiple documents
+* Full C# Source code
+* Auto indent text
+* Insert HTML, CSS Tags
+* Export your work to a file
+* A small set of editing tools
+* <b>Basic Tools to get your started</b>
+<ul>
+* Table generator
+* Random text generator
+* Web sizes chart
+* Colour picker
+* Font picker
